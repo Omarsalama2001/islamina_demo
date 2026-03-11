@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omarsalama2001/islamina_app/main/assets/images/ic_launcher.png"
+  <img src="https://raw.githubusercontent.com/Omarsalama2001/islamina_demo/main/ic_launcher.png"
        width="200" 
        alt="Islamina Logo"/>
 </p>
